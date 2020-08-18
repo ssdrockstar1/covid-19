@@ -1,0 +1,19 @@
+.active{
+    border-bottom-color: rgba(0,0,255,0.8);
+    width: '18rem';
+    border-bottom-width:"5px" 
+}
+
+.recovered{
+    border-bottom-color: rgba(255, 0, 0, 0.6);
+}
+
+.death{
+    border-bottom-color: rgba(0, 255, 13, 0.6);
+}
+
+.cardBlock{
+    height: 1000px !important;
+    width: 200px !important;
+
+}

@@ -1,0 +1,6 @@
+.lineChartContainer{
+    width: 600px !important;
+    height: 400px !important;
+    background-color: grey;
+    margin: 50px;
+}
